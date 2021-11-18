@@ -26,3 +26,5 @@ Sprint 2
 
 Create docker image of the application and docker deploy. 
 As a user I want view an application in a Docker container 
+
+![image](https://user-images.githubusercontent.com/68191062/142468114-e5d9ec48-e74c-456a-8034-e01dce71c3c7.png)

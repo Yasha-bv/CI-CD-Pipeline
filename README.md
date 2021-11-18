@@ -1,4 +1,4 @@
-# jenkinsmaven
+# CI/CD Deployment
 
  Project name- CI/CD Deployment for Spring boot Application 
 
@@ -8,8 +8,7 @@ This project displays how to automate the integration and deployment of the web 
 
 1.2 Tech stack:	 
 
-Language used- Java, JSP 
-Database used – MySQL 
+Language used- Java
 Virtual Machine-AWS 
 Version control system- GitHub 
 DevOps tool- Jenkins 
